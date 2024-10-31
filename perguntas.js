@@ -21,3 +21,15 @@ criaCartao(
     'Qual é o nome do personagem que retorna após sua suposta morte?',
     'Han Lue'
 )
+
+criaCartao(
+    'Velozes e Furiosos 10',
+    'Qual é o nome do personagem que morre neste filme?',
+    'Jakob Toretto'
+)
+
+criaCartao(
+    'Velozes e Furiosos 7',
+    'Qual é o nome do aparelho que da acesso a todas as cameras do mundo?',
+    'O Olho de Deus'
+)
